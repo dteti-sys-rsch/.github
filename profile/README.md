@@ -1,4 +1,4 @@
-<h1 align='center'>Hi! Welcome to dteti systems research group 🧪</h1>
+<h1 align='center'>Hi! Welcome to dteti systems research Lab 🧪</h1>
 
 - 🔭 We are a research group led by [Dr. Guntur D Putra](https://gdputra.github.io/) at [Department of Electrical and Information Engineering](https://jteti.ugm.ac.id/), [UGM](https://ugm.ac.id/en/), Indonesia.
 - 📊 We do research mainly in _cyber-physical systems_ and _applications of machine learning algorithms_. We also explore _blockchain related applications_ in securing _the internet of things_ and _distributed systems_.
